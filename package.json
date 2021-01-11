@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "msw": "^0.21.3"
+    "msw": "^0.21.3",
+    "mutationobserver-shim": "^0.3.7"
   }
 }
